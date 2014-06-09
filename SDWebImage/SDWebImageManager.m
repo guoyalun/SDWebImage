@@ -33,6 +33,7 @@
     static id instance;
     dispatch_once(&once, ^{
         instance = [self new];
+        
     });
     return instance;
 }
