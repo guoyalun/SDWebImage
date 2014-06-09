@@ -1,4 +1,4 @@
-Web Image
+SDWeb Image
 =========
 
 This library provides a category for UIImageView with support for remote images coming from the web.
